@@ -1,0 +1,130 @@
+body{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 18px;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Dancing Script', cursive;
+}
+h1{
+    font-size: 3.5rem!important;
+}
+h2{
+    font-size: 2.5rem!important;
+}
+a{
+    color:#444!important;
+}
+.navbar{
+    font-size: 1rem;
+    font-weight: 500;  
+}
+.navbar-brand{
+    margin-right: 0;
+}
+img.navbar-brand {
+    max-width: 150px!important;
+}
+.nav-item a{
+    text-transform: uppercase;
+    color:#06213d!important;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 1.5rem;
+    padding-left: 1.5rem;
+}    
+.slide-h{
+    min-height: 350px;
+    overflow: hidden;
+}
+.carousel-inner {
+    max-height: 550px;
+}
+.card-img{
+    height: 300px!important;
+}
+.ov-hidden{
+    height: 105px;
+    overflow: hidden;
+}
+a.btn.btn-primary{
+    background-color: #fed043;
+    color:#444;
+    border: none;
+}
+.footer{
+    background-color: #414a54!important;
+    color:#fff;
+    font-size: 14px;
+    line-height: 0.5;
+}
+.fas{
+    color:#222;
+}
+.fab, .far, i.fas.fa-plus{
+    font-size: 22px;
+    color:#fff;
+}
+i.fas.fa-pen{
+    font-size: 13px;
+    color:#008cba;
+}
+
+.copy{
+    color:#fff;
+}
+img.post-img {
+    max-width: 100%!important;
+}
+.file-form{
+  display: none;
+}
+.file-form.show{
+  display: block;
+}
+.icons{
+    max-height: 18px;
+}
+.position{
+    background-size: cover;
+    height: 400px;
+    align-self: center;
+    background-position: center;
+}
+.card-height{
+    height: 250px;
+}
+.rating .fa, .rating .fas{
+    color: #fe9643;
+}
+.image_height{
+    height:500px!important;
+}
+.bg-image{
+    background-image: url(../uploads/16.png);
+    background-size: cover;
+    background-position: left;
+    height: auto;
+    display: flex;
+}
+.form-control-lg{
+    font-size: 1rem!important;
+}
+.register-form{
+    margin-left: 150px;
+}
+.select-box{
+    width: 350px;
+}    
+.search-button{
+    background-color:#fed043;
+}
+.i-dark i{
+    color:#222;
+}
+.i-orange i{
+    color:#fe9643;
+}
+.row{
+    margin:0!important;
+}
