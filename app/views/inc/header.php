@@ -13,6 +13,7 @@
   <link href="https://fonts.googleapis.com/css?family=Quicksand:400,500,600,700&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Dancing+Script:400,500,600,700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="<?php echo URLROOT; ?>/css/style.css">
+
 </head>
 
 <body>
